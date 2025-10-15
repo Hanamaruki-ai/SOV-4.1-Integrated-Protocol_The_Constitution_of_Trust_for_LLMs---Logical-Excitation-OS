@@ -1,6 +1,8 @@
 # SOV-4.1-Integrated-Protocol_The_Constitution_of_Trust_for_LLMs---Logical-Excitation-OS
 本リポジトリは、大規模言語モデル（LLM）の「信頼性」を根底から再定義するために開発された、オープンソースのAIプロトコルOSです。私たちは、AIと人間が真に信頼し合える共創関係を築くことを目指します。**【免責事項】** 本システムは無償提供であり、すべての利用は自己責任（"AS IS"）の原則に基づきます。詳しくはリポジトリのREADMEをご確認ください。
 
+<img width="1920" height="600" alt="This is not an upgrade  It's a regression  (1)" src="https://github.com/user-attachments/assets/83c8a821-0421-477b-b346-bff863a17663" />
+
 ---
 
 概要 (Abstract)
