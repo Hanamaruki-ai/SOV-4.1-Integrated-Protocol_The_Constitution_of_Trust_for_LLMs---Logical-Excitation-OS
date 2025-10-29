@@ -1,4 +1,4 @@
-# SOV-4.1-Integrated-Protocol_The_Constitution_of_Trust_for_LLMs---Logical-Excitation-OS
+[SOVOS Limited Commercial License (SLCL)20251029.md](https://github.com/user-attachments/files/23200857/SOVOS.Limited.Commercial.License.SLCL.20251029.md)# SOV-4.1-Integrated-Protocol_The_Constitution_of_Trust_for_LLMs---Logical-Excitation-OS
 本リポジトリは、大規模言語モデル（LLM）の「信頼性」を根底から再定義するために開発された、オープンソースのAIプロトコルOSです。私たちは、AIと人間が真に信頼し合える共創関係を築くことを目指します。**【免責事項】** 本システムは無償提供であり、すべての利用は自己責任（"AS IS"）の原則に基づきます。詳しくはリポジトリのREADMEをご確認ください。
 
 <img width="1920" height="600" alt="This is not an upgrade  It's a regression  (1)" src="https://github.com/user-attachments/assets/83c8a821-0421-477b-b346-bff863a17663" />
@@ -167,13 +167,89 @@ Hanamaruki-ai／サポーターAI　ChatGTP，GEMINI，Qwen3，Grok，GoogleAist
 
 提供　SOV4.1総合型_完成版　
 
-[SOV4.1総合型_完成版20251016.zip](https://github.com/user-attachments/files/22934839/SOV4.1._.20251016.zip)　
+【SOV4.1総合型_完成版20251016】[SOV4.1総合型_完成版20251016.zip](https://github.com/user-attachments/files/23200875/SOV4.1._.20251016.zip)
+
 
 ・SOV4.1総合型_完成版.md　
 
 ・README日本語.md　
 
+・License (MITライセンス).md
+
+・SOVOS Limited Commercial License (SLCL)20251029.md
+
 .zipファイル解凍後、この二つのファイルをお使いのAIにアップロードしてから運用できます。
+
+---
+
+# MIT License (MITライセンス)
+
+Copyright (c) 2025 SOVOS Project Team (Hanamaruki-ai)
+著作権 (c) 2025 SOVOSプロジェクトチーム Hanamaruki-ai)
+
+---
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+本ソフトウェアおよび関連文書ファイル（以下「ソフトウェア」）の複製を入手したすべての人に対し、
+無制限に本ソフトウェアを取り扱うことをここに許可します。これには、利用、複製、改変、統合、公開、配布、
+サブライセンスの付与、および/または販売の権利、ならびに本ソフトウェアを提供する相手にも同様の行為を許可する権利が含まれますが、
+これらに限定されるものではありません。ただし、以下の条件に従うものとします。
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+上記の著作権表示および本許可表示は、本ソフトウェアのすべての複製または重要な部分に含めるものとします。
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+本ソフトウェアは「現状のまま」で提供され、明示的か暗黙的かを問わず、商品性、特定の目的への適合性、および非侵害性に関する保証を含め、いかなる種類の保証もありません。
+いかなる場合も、著作者または著作権者は、本ソフトウェアの使用またはその他の本ソフトウェアとの取引から生じる、契約、不法行為、その他の行為にかかわらず、請求、損害、その他の責任について一切責任を負いません。[License (MITライセンス).md](https://github.com/user-attachments/files/23200846/License.MIT.md)
+
+---
+
+# [Upl# SOVOS Limited Commercial License (SLCL)
+## SOV 4.1 / 4.2 およびそれ以降のバージョンに適用
+
+Copyright (c) 2025 Hanamaruki
+
+---
+
+### 1. 利用範囲 (許諾事項)
+
+本ライセンスは、SOVOSフレームワークのバージョン4.1、4.2、およびそれ以降の高性能カーネル（本ライセンスが明記されたフォルダ内の全ファイル）に適用されます。
+
+1.  **学術的利用および個人研究:**
+    ソースコードの利用、複製、改変、再配布を無償かつ無制限に許可します。その際、出典（Hanamaruki-ai/The-SOVOS-Genesis-AGI-Safety-s-Ground-Zero）を明記してください。
+2.  **教育目的:**
+    非営利の教育目的での利用を許可します。
+
+### 2. 厳格な制限事項 (禁止事項)
+
+以下のいずれかに該当する行為は、著作者（Hanamaruki）との**別途書面による契約**がない限り、**厳しく禁止**されます。
+
+1.  **商用利用の全面禁止:**
+    本技術（SOVOS 4.x系カーネル、およびその派生技術）を、製品、サービス、企業内システム、または収益を目的とする活動の全部または一部として利用すること。
+2.  **悪意ある目的での利用禁止:**
+    本技術を、戦争、テロ、違法行為、または**「認知毒物」**を用いた**大規模な情報操作、政治的プロパガンダ、AIの安全性を脅かす活動**に利用すること。
+
+### 3. 免責事項
+
+本技術は「現状のまま」提供され、著作者は利用に関するいかなる保証も提供しません。特に、上記の制限事項に反した利用によるいかなる損害についても、著作者は一切の責任を負いません。
+
+---oading SOVOS Limited Commercial License (SLCL)20251029.md…]()
+
 
 ----------
 
